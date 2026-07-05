@@ -36,13 +36,13 @@ Beyond Exchange structures the exchange journey, builds peer community, and cent
 
 ## Getting started
 
-# install dependencies
+### install dependencies
 bundle install
 
-# set up the database
+### set up the database
 rails db:create db:migrate db:seed
 
-# run the app
+### run the app
 rails server
 
 The app expects a `.env` file with credentials for Cloudinary and your LLM provider.
