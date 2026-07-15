@@ -32,7 +32,7 @@ Beyond Exchange structures the exchange journey, builds peer community, and cent
 - **Media:** Cloudinary for image storage
 - **Notifications:** Noticed
 - **Background jobs & caching:** Solid Queue, Solid Cache, Solid Cable
-- **Deployment:** Docker, Kamal
+- **Deployment:** Heroku
 
 ## Getting started
 
@@ -41,6 +41,9 @@ Beyond Exchange structures the exchange journey, builds peer community, and cent
 - **run the app:** rails server
 - The app expects a `.env` file with credentials for Cloudinary and your LLM provider.
 
-## Team
+## My contributions
 
-Built in a team of four during Le Wagon's AI Software Development bootcamp.
+- **Community feed:** built the feature end to end: photo uploads (Cloudinary), a shared feed, and commenting and liking on each other's posts
+- **Guided reflection content:** wrote and edited the questionnaire questions that structure students' reflection at key points in the journey
+- **Demo readiness:** curated the seed data so every feature demos smoothly, and did substantial debugging to get the app live for demo day
+- **The rest:** data model, auth and roles, messaging, AI chatbot — was built collaboratively across the team of four.
