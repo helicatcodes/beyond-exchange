@@ -57,7 +57,7 @@ Beyond Exchange structures the exchange journey, builds peer community, and cent
 - **Database:** PostgreSQL
 - **Frontend:** Hotwire (Turbo + Stimulus), Bootstrap 5, importmap
 - **Auth & authorization:** Devise, Pundit
-- **AI:** [ruby_llm](https://github.com/crmne/ruby_llm) for the in-app chatbot
+- **AI:** ruby_llm for the in-app chatbot
 - **Media:** Cloudinary for image storage
 - **Notifications:** Noticed
 - **Background jobs & caching:** Solid Queue, Solid Cache, Solid Cable
