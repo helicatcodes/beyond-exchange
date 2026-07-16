@@ -13,15 +13,6 @@ Student exchange journeys are often let down by:
 
 ## What Beyond Exchange does
 
-Beyond Exchange structures the exchange journey, builds peer community, and centralizes communication in one place for students, parents, and host families. It's the first digital pedagogical framework that makes high-touch exchange support measurable and guided, rather than ad hoc.
-
-- **Guided reflection** — structured questionnaires that prompt students to reflect on challenges, growth, and confidence at key points in their journey
-- **Community feed** — students share photos and updates, and comment and like each other's posts
-- **Tasks** — a checklist-style framework that gives structure to the exchange journey
-- **Direct messaging & notifications** — centralized communication between students, parents, and host families
-- **AI chatbot** — an in-app assistant for guidance and support
-- **Role-based access** — separate views for students, admins, and parents/viewers
-
 <table>
   <tr>
     <td width="25%" valign="top">
@@ -50,6 +41,15 @@ Beyond Exchange structures the exchange journey, builds peer community, and cent
     </td>
   </tr>
 </table>
+
+Beyond Exchange structures the exchange journey, builds peer community, and centralizes communication in one place for students, parents, and host families. It's the first digital pedagogical framework that makes high-touch exchange support measurable and guided, rather than ad hoc.
+
+- **Guided reflection** — structured questionnaires that prompt students to reflect on challenges, growth, and confidence at key points in their journey
+- **Community feed** — students share photos and updates, and comment and like each other's posts
+- **Tasks** — a checklist-style framework that gives structure to the exchange journey
+- **Direct messaging & notifications** — centralized communication between students, parents, and host families
+- **AI chatbot** — an in-app assistant for guidance and support
+- **Role-based access** — separate views for students, admins, and parents/viewers
 
 ## Tech stack
 
